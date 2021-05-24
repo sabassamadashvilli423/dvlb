@@ -1,0 +1,6 @@
+﻿  River.cpp
+  rivers.cpp
+C:\Users\Zauri\source\repos\rivers\rivers\rivers.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\rivers\rivers\rivers.cpp(18,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  rivers.vcxproj -> C:\Users\Zauri\source\repos\rivers\Debug\rivers.exe
